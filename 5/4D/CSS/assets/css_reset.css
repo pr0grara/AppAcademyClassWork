@@ -1,0 +1,14 @@
+header, aside, figure, h2, footer {
+    margin: 15px;
+    padding: 25px;
+    border: 4px;
+    font-size: inherit;
+}
+
+h2 > p {
+    line-height: 1.5px;
+}
+
+section figure img {
+    width: inherit;
+}
